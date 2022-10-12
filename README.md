@@ -25,6 +25,7 @@ When you have confirmed your email, you get access to your API key
 
 ![](./image/news_api.jpg)
 
+## config.ini
 You have to put *your* API key in the **config.ini** file:
 
 ```txt
