@@ -12,7 +12,7 @@ import configparser
 
 # Folder to save your .csv files
 # Windows
-#os.chdir('C:\\Users\\tuehe\\Documents\\GitHub\\newsapi')
+os.chdir('C:\\Users\\TueHellstern\\Documents\\GitHub\\newsapi')
 
 # macOS
 #os.chdir('/Users/user_name/newsapi')
