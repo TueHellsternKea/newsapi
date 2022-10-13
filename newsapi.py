@@ -1,5 +1,4 @@
 # Import packages
-# Default packages
 import time
 import csv
 import os
