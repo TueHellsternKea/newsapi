@@ -17,9 +17,9 @@ In this demo I'm getting news articles regarding **Python and Excel**
 ![](./image/news_2.jpg)
 
 # API - Newscatcher
-You have to registry for a API key to get this to work.
+You must registry for a API key to get this to work.
 
-It is free and you do it at: [newscatcherapi.com](https://newscatcherapi.com/)
+It is free and you do it at: [newscatcherapi.com](https://newscatcherapi.com)
 
 When you have confirmed your email, you get access to your API key
 
